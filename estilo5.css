@@ -1,0 +1,22 @@
+*
+{
+	color:#000000;
+	background-color:#808000;
+}
+h1
+{
+	color:red;
+	text-align:center;
+	font-family:verdana;
+}
+p
+{
+	font-size:20px;
+	background-color:#eaf87c;
+}
+img
+{
+	height:250px;
+	width:350px;
+	border:6px;
+}
